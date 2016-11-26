@@ -18,7 +18,7 @@ body{
 h1
 {
  color:#fff;
- background-color:#970909;
+ background-color:#3EFAF7;
  border-top-style: groove;
  border-bottom-style:groove;
  border-top-width: 4px;
@@ -77,8 +77,8 @@ li{
 }
 .zoom img
 {
- width:1024px;
- height:1024px;
+ width:72px;
+ height:72px;
  -webkit-transition:all 2s ease;
  -moz-transition:all 2s ease;
  -ms-transition:all 2s ease;
@@ -87,8 +87,8 @@ li{
 }
 .zoom img:hover
 {
- width:4096px;
- height:4096px;
+ width:288px;
+ height:288px;
 }
 .zoom:hover
 {
