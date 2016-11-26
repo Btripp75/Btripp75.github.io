@@ -48,8 +48,8 @@ li{
 }
 .img
 {
- width:200px;
- height:200px;
+ width:320px;
+ height:240px;
  border:10px solid #970909;
  -webkit-border-radius:15px;
  border-radius:15px;
@@ -77,8 +77,8 @@ li{
 }
 .zoom img
 {
- width:72px;
- height:72px;
+ width:320px;
+ height:240px;
  -webkit-transition:all 2s ease;
  -moz-transition:all 2s ease;
  -ms-transition:all 2s ease;
@@ -87,8 +87,8 @@ li{
 }
 .zoom img:hover
 {
- width:288px;
- height:288px;
+ width:640px;
+ height:480px;
 }
 .zoom:hover
 {
