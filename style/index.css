@@ -52,7 +52,7 @@ li{
  height:240px;
  border:10px solid #02108A;
  -webkit-border-radius:15px;
- border-radius:15px;
+ border-radius:12px;
  overflow:hidden;
 }
 .img:hover
