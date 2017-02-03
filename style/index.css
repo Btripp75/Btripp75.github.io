@@ -48,10 +48,10 @@ li{
 }
 .img
 {
- width:px;
+ width:0px;
  height:260px;
  border:6px solid #02108A;
- -webkit-border-radius:15px;
+ -webkit-border-radius:30px;
  border-radius:6px;
  overflow:hidden;
 }
