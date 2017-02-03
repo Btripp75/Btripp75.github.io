@@ -48,11 +48,11 @@ li{
 }
 .img
 {
- width:0px;
+ width:px;
  height:260px;
  border:6px solid #02108A;
  -webkit-border-radius:30px;
- border-radius:6px;
+ border-radius:20px;
  overflow:hidden;
 }
 .img:hover
